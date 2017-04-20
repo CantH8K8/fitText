@@ -2,3 +2,14 @@
 body {
     background: rgba(0, 240, 194, 0.71);
 }
+
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+
+h2 {
+  color: maroon;
+  font-size: 6em;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: .05em;
+  font-family: 'Bangers', cursive;
+}
